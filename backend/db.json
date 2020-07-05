@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "caneta bic preta",
+      "name": "caneta",
       "price": 5.89
     },
     {
@@ -16,19 +16,14 @@
       "price": 5000.89
     },
     {
-      "name": "tc retaguarda",
-      "price": "100",
+      "name": "",
+      "price": null,
       "id": 4
-    },
-    {
-      "name": "vjhbjbkh",
-      "price": "899",
-      "id": 5
     },
     {
       "name": "",
       "price": null,
-      "id": 6
+      "id": 5
     }
   ]
 }
