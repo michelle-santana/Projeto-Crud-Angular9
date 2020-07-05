@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta bic preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "notebook mc pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "samsuns s20",
+      "price": 5000.89
+    },
+    {
+      "name": "tc retaguarda",
+      "price": "100",
+      "id": 4
+    },
+    {
+      "name": "vjhbjbkh",
+      "price": "899",
+      "id": 5
+    }
+  ]
+}
